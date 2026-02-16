@@ -95,21 +95,6 @@ For the **most up-to-date** SSL pinning bypassed Crunchyroll APK, reach out dire
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is intended for **educational and authorized security research purposes only**. Intercepting network traffic of applications you do not own or without proper authorization may violate local laws and terms of service. Use responsibly and at your own risk.
-
----
-
 ## 🏷️ Tags
 
 `crunchyroll ssl pinning bypass` · `crunchyroll certificate pinning` · `crunchyroll mitm` · `crunchyroll traffic interception` · `crunchyroll burp suite` · `crunchyroll proxy android` · `crunchyroll https decrypt` · `crunchyroll api reverse engineering` · `android ssl bypass no root` · `crunchyroll ssl bypass 2025` · `anime app ssl bypass` · `crunchyroll apk patched` · `crunchyroll network analysis` · `crunchyroll streaming api` · `crunchyroll simulcast api` · `com.crunchyroll.crunchyroid` · `crunchyroll offline download api`
-
----
-
-**Next steps (same as before):**
-- Replace placeholders with real screenshot/video (e.g., show Burp capturing an HLS manifest request, subtitle fetch, or recommendation API call). Blur any auth tokens or personal data.
-- Add a small "last checked" note under the version table: e.g., "Last checked: February 2026. Newer versions may require re-patching — contact for updates."
-- Optionally strengthen disclaimer slightly: "...strictly for educational purposes, security research on your own installed applications, and analysis of publicly exposed API behavior."
-
-Let me know if you want adjustments (e.g., highlight specific inspectable parts like offline downloads or simulcast logic)! 🚀
