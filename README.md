@@ -25,11 +25,10 @@ This project provides a pre-patched **Crunchyroll APK** with SSL/TLS certificate
 
 ## 🎥 Proof of Concept
 
-<!-- Replace the placeholder URLs below with your actual screenshot and video links -->
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/7a4b8bd3-4157-4248-9a83-f9fc63256e1b" />
 
-<img width="720" height="1640" alt="Crunchyroll SSL Pinning Bypass - Traffic Interception Screenshot" src="YOUR_SCREENSHOT_URL_HERE" />
 
-▶️ [**Watch the Full Video Demonstration**](YOUR_VIDEO_URL_HERE)
+▶️ [**Watch the Full Video Demonstration**](https://github.com/user-attachments/assets/b7d2b9de-5755-4bb2-9551-452ccb417251)
 
 ---
 
